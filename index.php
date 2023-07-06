@@ -7,7 +7,7 @@
 <meta name="description" content="" />
 <link rel="stylesheet" type="text/css" href="style.css">
 	</head>
-	<body>
+	<body src="images/background.jpg">
 		<div id="header">
 			<h1 class="cap">Online Food Delivery</h1>
 			<ul class="menu1">

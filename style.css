@@ -1,5 +1,6 @@
 body{
-    background-color:#00b6ec;
+    background-color: 	#ffb805;
+    background-image:url(images/background.jpg);
     text-align:center;
 }
 .menu1{
@@ -28,7 +29,7 @@ a:hover,a:active{
     height:130px;
     margin-left:auto;
     margin-right:auto;
-    background-color: aqua;
+    background-color:  	#ffc905;
 }
 #content {
     clear: both;
@@ -36,7 +37,7 @@ a:hover,a:active{
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    background-color: lightcyan;
+    background-color:#ffe505;
 }
 #left {width:500px;float: left;}
 #right {width:500px;float: right;}
@@ -45,7 +46,7 @@ a:hover,a:active{
     padding: 10px;
     margin-left: auto;
     margin-right:  auto;
-    background-color: aqua;
+    background-color:  	#ffc905;
     clear: both;
 }
 .cap{
